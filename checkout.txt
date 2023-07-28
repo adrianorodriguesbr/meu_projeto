@@ -1,0 +1,1 @@
+Esse é mais um aquivo criado no vim para aprender versionamento
